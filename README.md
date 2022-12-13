@@ -1,6 +1,6 @@
 Hi, I’m @alexia-pratensi👋
 <br><br>
-📜I recently did the Wagon's bootcamp in Nice and I learned the basics of programming.
+📜I recently did the Wagon's bootcamp in Nice where I learned the basics of programming.
 <br>
 I decided to learn coding following my passion💞️ for web technologies, where I can turn ideas into products.
 <br>
