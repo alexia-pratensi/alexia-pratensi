@@ -21,6 +21,7 @@ I developed and still growing the following skills like:
 <br>
 👀 Something about me: I’m sensitive to environment preservation 🌱 and animal protection🐮. This is why I decided to developed a first application called "Behind Meat" (👉🏻https://www.behindmeat.site/), where you can calculate the real impact of your meat consumption on the environment - in only 10 days, with 2 collegues, as part of the Wagon's bootcamp. This application is only desktop for the moment.😉  
 In my free time, I like Latin dances💃, Krav Maga 🤼 and trail running in the nature 🏃.
+✈️I enjoy travelling all around the world 🌏
 <br>
 <br>
 📢 Now, I'm looking for a mission where I can contribute, grow my skills as junior full-stack web developer and work in team. 🚀
