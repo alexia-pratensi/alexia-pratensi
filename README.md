@@ -10,7 +10,7 @@ I developed and still growing the following skills like:
 - wireframing, mockups and prototyping --> design of wireframes, high fidelity mockups and interactive propotypes on figma ;
 - front-end development (html, CSS, JS) --> Translate mockups into interactive UI ;
 - database design and interactions --> design and implement databases for web applications (users, sessions, medias...) ;
-- back-end development --> interactions with DBs, definition of algorythms, usage of API ;
+- back-end development --> interactions with DBs, definition of algorithms, usage of API ;
 - DevOps --> fundamentals of DevOps (Git, hosting, DNS, deploy).
 <br><br>
 
