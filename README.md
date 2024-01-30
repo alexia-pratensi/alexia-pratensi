@@ -1,16 +1,15 @@
 Hi, I’m @alexia-pratensi👋
 <br><br>
-📜I recently did the Wagon's bootcamp in Nice where I learned the basics of programming.
+Former director for several years, I am now a passionate 💞️ junior web developer, looking for exciting challenges, growth and team work.
 <br>
-I decided to learn coding following my passion💞️ for web technologies, where I can turn ideas into products.
 <br>
 I developed and still growing the following skills like:
 <br>
 - user journey, persones and needs --> map user needs and interactions to create flows and identity functionalities ;
 - wireframing, mockups and prototyping --> design of wireframes, high fidelity mockups and interactive propotypes on figma ;
-- front-end development (html, CSS, JS) --> Translate mockups into interactive UI ;
+- front-end development (Angular, html, CSS) --> Translate mockups into interactive UI ;
 - database design and interactions --> design and implement databases for web applications (users, sessions, medias...) ;
-- back-end development --> interactions with DBs, definition of algorithms, usage of API ;
+- back-end development --> Java, Spring framework, interactions with DBs, definition of algorithms, usage of API ;
 - DevOps --> fundamentals of DevOps (Git, hosting, DNS, deploy).
 <br><br>
 
@@ -19,8 +18,8 @@ I developed and still growing the following skills like:
 💻I’m always interested in learning new programming languages and technics to improve my deliverables.
 <br>
 <br>
-👀 Something about me: I’m sensitive to environment preservation 🌱 and animal protection🐮. This is why I decided to developed a first application called "Behind Meat" (👉🏻https://www.behindmeat.site/), where you can calculate the real impact of your meat consumption on the environment - in only 10 days, with 2 collegues, as part of the Wagon's bootcamp. This application is only desktop for the moment.😉  
-In my free time, I like Latin dances💃, Krav Maga 🤼 and trail running in the nature 🏃.
+👀 Something about me: I’m sensitive to environment preservation 🌱 and animal protection🐮. This is why I decided to developed a first application called "Behind Meat", where you can calculate the real impact of your meat consumption on the environment.  
+In my free time, I like Latin dances💃, trail 🏃.
 ✈️I enjoy travelling all around the world 🌏
 <br>
 <br>
